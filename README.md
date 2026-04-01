@@ -30,10 +30,10 @@
 
 <h3 align="left">Lenguajes más usados:</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonaynavas999&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adonaynavas999&layout=compact&theme=tokyonight"/>
 </p>
 
 <h3 align="left">Mis estadísticas:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adonaynavas999&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adonaynavas999&show_icons=true&theme=tokyonight"/>
 </p>
