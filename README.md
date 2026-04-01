@@ -30,10 +30,13 @@
 
 <h3 align="left">Lenguajes más usados:</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adonaynavas999&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Python-75%25-green?style=for-the-badge&logo=python"/>
 </p>
 
 <h3 align="left">Mis estadísticas:</h3>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adonaynavas999&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adonaynavas999&theme=github_dark"/>
 </p>
